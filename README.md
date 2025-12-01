@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Email me at: belsabbagh@proton.me**
 
-- 🖥️ [Learn more about me on my website](https://my-portfolio-website-plum.vercel.app)
+- 🖥️ [Learn more about me](https://belsabbagh.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
