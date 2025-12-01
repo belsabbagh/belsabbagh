@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **AI, Data Science, Software Engineering**
 
-- 📫 How to reach me **Email me at: belsabbagh@gmail.com**
+- 📫 How to reach me **Email me at: belsabbagh@proton.me**
 
 - 🖥️ [Learn more about me on my website](https://my-portfolio-website-plum.vercel.app)
 
