@@ -3,13 +3,13 @@
 
 [![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=belsabbagh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently learning **Rust, TypeScript, Svelte, and Flutter**
+- 🌱 I’m currently learning **Go, Rust, and Flutter**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/belsabbagh)
 
 - 💬 Ask me about **AI, Data Science, Software Engineering**
 
-- 📫 How to reach me **Email me at: belsabbagh@proton.me**
+- 📫 How to reach me **Email me at **belal@belsabbagh.me**
 
 - 🖥️ [Learn more about me](https://belsabbagh.me)
 
