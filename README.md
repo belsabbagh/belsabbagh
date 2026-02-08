@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **AI, Data Science, Software Engineering**
 
-- 📫 How to reach me **Email me at **belal@belsabbagh.me**
+- 📫 How to reach me **Email me at belal@belsabbagh.me**
 
 - 🖥️ [Learn more about me](https://belsabbagh.me)
 
