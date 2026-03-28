@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Belal Elsabbagh</h1>
 <h3 align="center">A Computer Science Student in Misr International University in Egypt.</h3>
-
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=belsabbagh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 - 🌱 I’m currently learning **Go, Rust, and Flutter**
 
